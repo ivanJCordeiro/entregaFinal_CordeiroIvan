@@ -23,10 +23,10 @@
 }
 
 .navColor{
-    background-color: #A63C3C;
+    background-color: $c-primario;
 }
 
 .botonBrown{
-    background-color: #594E4D;
-    color: aliceblue;
+    background-color: $c-secundario;
+    color: $c-titulos;
 }

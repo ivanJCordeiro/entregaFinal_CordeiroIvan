@@ -1,11 +1,11 @@
 /* estilo footer */
 
 .pie{
-    background-color: #A63C3C;
+    background-color: $c-primario;
     height: 5vh;
     display: flex;
 }
 
 .version{
-    color: aliceblue;
+    color: $c-titulos;
 }
