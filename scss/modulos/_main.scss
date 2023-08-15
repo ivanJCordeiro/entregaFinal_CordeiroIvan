@@ -1,0 +1,58 @@
+/* estilo main index */
+
+
+.titulo{
+    font-size: large;
+    color: rgb(247, 245, 243);
+}
+
+.img{
+    width: 90%;
+    display: flex;
+    align-self: center;
+}
+
+.colorTexto{
+    font-size: small;
+    color: rgb(247, 246, 246);
+    text-align: start;
+}
+
+.video{
+    width: 90%;
+    display: flex;
+    justify-self: center;
+}
+
+/* estilo main paginas */
+.gif{
+    width: 200px;
+    height: 300px;
+}
+
+.fuenteTitulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fuenteTexto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tituloH1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(233, 235, 235);
+}
+
+.imgif{
+    width: 3%;
+    height: 3%;
+}
+
+.bgContacto{
+   background-color: #A63C3C;;
+}
+
+.mainH{
+    height: 78vh;
+    overflow-y: hidden;
+}

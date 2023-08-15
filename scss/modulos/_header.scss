@@ -1,0 +1,32 @@
+.divHeader{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+    "logo usuario"
+    "logo usuario";
+}
+
+.usuario{
+    grid-area: usuario;
+    display: flex;
+    align-self: center;
+}
+
+.redes{
+    grid-area: redes;
+    display: flex;
+}
+
+.logo{
+    grid-area: logo;
+}
+
+.navColor{
+    background-color: #A63C3C;
+}
+
+.botonBrown{
+    background-color: #594E4D;
+    color: aliceblue;
+}
