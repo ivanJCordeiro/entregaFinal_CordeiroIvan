@@ -1,3 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  background-image: url(https://media.istockphoto.com/id/1294603953/es/vector/parte-diagonal-de-las-rayas-negras-abstractas.jpg?s=612x612&w=0&k=20&c=X03bsGgJqAhik-P5OOreFc4eNIrDHUF2sswozJQ97qE=);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.divHeader {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas: "logo usuario" "logo usuario";
+}
+
+.usuario {
+  grid-area: usuario;
+  display: flex;
+  align-self: center;
+}
+
+.redes {
+  grid-area: redes;
+  display: flex;
+}
+
+.logo {
+  grid-area: logo;
+}
+
+.navColor {
+  background-color: #A63C3C;
+}
+
+.botonBrown {
+  background-color: #594E4D;
+  color: rgb(233, 235, 235);
+}
+
+/* estilo main index */
+.titulo {
+  font-size: large;
+  color: rgb(233, 235, 235);
+}
+
+.img {
+  width: 90%;
+  display: flex;
+  align-self: center;
+}
+
+.colorTexto {
+  font-size: small;
+  color: rgb(233, 235, 235);
+  text-align: start;
+}
+
+.video {
+  width: 90%;
+  display: flex;
+  justify-self: center;
+}
+
+/* estilo main paginas */
+.gif {
+  width: 200px;
+  height: 300px;
+}
+
+.fuenteTitulo {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.fuenteTexto {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.tituloH1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(233, 235, 235);
+}
+
+.imgif {
+  width: 3%;
+  height: 3%;
+}
+
+.bgContacto {
+  background-color: #A63C3C;
+}
+
+.mainH {
+  height: 78vh;
+  overflow-y: hidden;
+}
+
+/* estilo footer */
+.pie {
+  background-color: #A63C3C;
+  height: 5vh;
+  display: flex;
+}
+
+.version {
+  color: rgb(233, 235, 235);
+}
 
 /*# sourceMappingURL=style.css.map */
