@@ -1,5 +1,7 @@
 // VARIABLES BACKGROUNDS
 
+$bgBody: url(../images/bgImages/bgBody.svg);
+
 // VARIABLES COLORES
 
 $c-primario: #A63C3C;
@@ -11,3 +13,17 @@ $c-titulos: rgb(233, 235, 235);
 $fuenteTitulo: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 $fuenteTexto: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 $fuenteH1: Arial, Helvetica, sans-serif;
+
+// VARIABLES HEIGTH Y WIDTH
+
+$widthMax: 200px;
+$heigthMax: 300px;
+$widthMin: 3%;
+$heigthMin: 3%;
+
+// MIXINS
+
+@mixin gif ($width, $heigth){
+    width: $width;
+    height: $heigth;
+}

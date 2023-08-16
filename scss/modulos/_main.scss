@@ -26,8 +26,7 @@
 
 /* estilo main paginas */
 .gif{
-    width: 200px;
-    height: 300px;
+   @include gif(200px, 300px);
 }
 
 .fuenteTitulo{
@@ -44,8 +43,7 @@
 }
 
 .imgif{
-    width: 3%;
-    height: 3%;
+    @include gif(3%, 3%) ;
 }
 
 .bgContacto{
