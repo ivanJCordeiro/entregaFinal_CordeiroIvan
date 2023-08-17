@@ -40,6 +40,10 @@ body {
   background-color: #594E4D;
   color: rgb(233, 235, 235);
 }
+.botonBrown:hover {
+  background-color: rgba(75, 75, 75, 0.945);
+  color: antiquewhite;
+}
 
 /* estilo main index */
 .titulo {

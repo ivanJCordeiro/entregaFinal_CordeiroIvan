@@ -30,4 +30,8 @@
 .botonBrown{
     background-color: $c-secundario;
     color: $c-titulos;
+    &:hover{
+        background-color: rgba(75, 75, 75, 0.945);
+        color: antiquewhite;
+    }
 }
