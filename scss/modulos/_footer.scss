@@ -1,7 +1,7 @@
 /* estilo footer */
 
 .pie{
-    background-color: $c-primario;
+    background-color: map-get($paleta_color , "principal");
     height: 5vh;
     display: flex;
 }

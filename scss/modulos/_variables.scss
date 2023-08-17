@@ -2,11 +2,14 @@
 
 $bgBody: url(../images/bgImages/bgBody.svg);
 
-// VARIABLES COLORES
+// MAPS
 
-$c-primario: #A63C3C;
-$c-secundario: #594E4D;
-$c-titulos: rgb(233, 235, 235);
+$paleta_color: (
+    "principal": #A63C3C,
+    "secundario": #594E4D,
+    "titulos": rgb(233, 235, 235),
+    "hover": rgba(75, 75, 75, 0.945)
+    );
 
 // VARIABLES FUENTES
 

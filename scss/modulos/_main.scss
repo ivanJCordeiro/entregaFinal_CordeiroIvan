@@ -3,7 +3,7 @@
 
 .titulo{
     font-size: large;
-    color: $c-titulos;
+    color: map-get($paleta_color , "titulos");
 }
 
 .img{
@@ -14,7 +14,7 @@
 
 .colorTexto{
     font-size: small;
-    color: $c-titulos;
+    color: map-get($paleta_color , "titulos");
     text-align: start;
 }
 
@@ -39,7 +39,7 @@
 
 .tituloH1{
     font-family: $fuenteH1;
-    color: $c-titulos;
+    color: map-get($paleta_color , "titulos");
 }
 
 .imgif{
@@ -47,7 +47,7 @@
 }
 
 .bgContacto{
-   background-color: $c-primario;
+   background-color: map-get($paleta_color , "principal");
 }
 
 .mainH{

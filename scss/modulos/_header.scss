@@ -24,14 +24,14 @@
 }
 
 .navColor{
-    background-color: $c-primario;
+    background-color: map-get($paleta_color , "principal");
 }
 
 .botonBrown{
-    background-color: $c-secundario;
-    color: $c-titulos;
+    background-color: map-get($paleta_color , "secundario");
+    color: map-get($paleta_color , "titulos");
     &:hover{
-        background-color: rgba(75, 75, 75, 0.945);
-        color: antiquewhite;
+        background-color: map-get($paleta_color , "hover");
+        color: map-get($paleta_color , "titulos");
     }
 }

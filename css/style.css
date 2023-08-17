@@ -42,7 +42,7 @@ body {
 }
 .botonBrown:hover {
   background-color: rgba(75, 75, 75, 0.945);
-  color: antiquewhite;
+  color: rgb(233, 235, 235);
 }
 
 /* estilo main index */
