@@ -9,6 +9,10 @@ body {
   background-size: cover;
   background-position: center center;
 }
+body .modal-backdrop {
+  --bs-backdrop-bg:none;
+  display: none !important;
+}
 
 .divHeader {
   display: grid;
