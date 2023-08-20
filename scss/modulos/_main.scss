@@ -46,11 +46,14 @@
     @include gif(3%, 3%) ;
 }
 
+.modalPos{
+    position: absolute;
+}
+
 .bgContacto{
    background-color: map-get($paleta_color , "principal");
 }
 
 .mainH{
-    height: 78vh;
     overflow-y: hidden;
 }
