@@ -56,8 +56,8 @@ body .modal-backdrop {
 }
 
 .img {
-  width: 80%;
-  height: 300px;
+  width: 90%;
+  height: 90%;
   display: flex;
   align-self: center;
 }
