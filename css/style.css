@@ -9,6 +9,10 @@ body {
   background-size: cover;
   background-position: center center;
 }
+body .modal-backdrop {
+  --bs-backdrop-bg:none;
+  display: none !important;
+}
 
 .divHeader {
   display: grid;
@@ -54,8 +58,6 @@ body {
 .img {
   width: 90%;
   height: 90%;
-  display: flex;
-  align-self: center;
 }
 
 .colorTexto {
@@ -92,10 +94,6 @@ body {
 .imgif {
   width: 3%;
   height: 3%;
-}
-
-.modalPos {
-  position: absolute;
 }
 
 .bgContacto {

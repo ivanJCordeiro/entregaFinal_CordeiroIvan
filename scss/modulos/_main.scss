@@ -8,8 +8,6 @@
 
 .img{
     @include gif(90%, 90%);
-    display: flex;
-    align-self: center;
 }
 
 .colorTexto{
@@ -44,10 +42,6 @@
 
 .imgif{
     @include gif(3%, 3%) ;
-}
-
-.modalPos{
-    position: absolute;
 }
 
 .bgContacto{
