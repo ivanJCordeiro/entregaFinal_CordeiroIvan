@@ -7,8 +7,4 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    .modal-backdrop{
-        --bs-backdrop-bg:none;
-        display: none !important;
-    }
 }
