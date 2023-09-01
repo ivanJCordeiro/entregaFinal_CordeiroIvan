@@ -75,7 +75,8 @@ body {
 }
 
 .fuenteTitulo {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Didot" serif;
+  font-weight: bold;
 }
 
 .fuenteTexto {
