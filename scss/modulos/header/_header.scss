@@ -22,16 +22,3 @@
 .logo{
     grid-area: logo;
 }
-
-.navColor{
-    background-image: $bgNavFoot;
-}
-
-.botonBrown{
-    background-color: map-get($paleta_color , "secundario");
-    color: map-get($paleta_color , "titulos");
-    &:hover{
-        background-color: map-get($paleta_color , "hover");
-        color: map-get($paleta_color , "titulos");
-    }
-}

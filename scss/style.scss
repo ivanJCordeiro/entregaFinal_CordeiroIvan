@@ -1,5 +1,8 @@
 @import "./modulos/variables";
 @import "./modulos/body";
-@import "./modulos/header";
-@import "./modulos/main";
+@import "./modulos/header/header";
+@import "./modulos/header/nav";
+@import "./modulos/main/main";
+@import "./modulos/main/titulosTextos";
+@import "./modulos/main/imagenesGifs";
 @import "./modulos/footer";

@@ -1,0 +1,13 @@
+// IMAGENES GIFS
+.img{
+    @include gif(90%, 90%);
+}
+
+.gif{
+    @include gif(200px, 300px);
+ }
+ 
+ 
+ .imgif{
+     @include gif(3%, 3%) ;
+ }

@@ -1,0 +1,27 @@
+// TITULOS Y TEXTOS
+
+.titulo{
+    font-size: large;
+    color: map-get($paleta_color , "titulos");
+}
+
+.fuenteTitulo{
+    font-family: $fuenteTitulo;
+    font-weight: bold;
+}
+
+.fuenteTexto{
+    font-family: $fuenteTexto;
+}
+
+.tituloH1{
+    font-family: $fuenteH1;
+    color: map-get($paleta_color , "titulos");
+    font-weight: bolder;
+}
+
+.colorTexto{
+    font-size: small;
+    color: map-get($paleta_color , "titulos");
+    text-align: start;
+}

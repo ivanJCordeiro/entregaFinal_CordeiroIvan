@@ -1,0 +1,13 @@
+// estilo main
+
+.bgContacto{
+   background-image: $bgNavFoot;
+}
+
+.mainH{
+    overflow-y: hidden;
+}
+
+.heigthCont{
+    @include gif(100%, 55vh)
+}
