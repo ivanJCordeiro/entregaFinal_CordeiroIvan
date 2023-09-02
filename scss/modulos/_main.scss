@@ -40,6 +40,7 @@
 .tituloH1{
     font-family: $fuenteH1;
     color: map-get($paleta_color , "titulos");
+    font-weight: bolder;
 }
 
 .imgif{
@@ -52,4 +53,8 @@
 
 .mainH{
     overflow-y: hidden;
+}
+
+.heigthCont{
+    @include gif(100%, 55vh)
 }
