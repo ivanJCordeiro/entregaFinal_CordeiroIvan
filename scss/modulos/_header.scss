@@ -24,7 +24,7 @@
 }
 
 .navColor{
-    background-color: map-get($paleta_color , "principal");
+    background-image: $bgNavFoot;
 }
 
 .botonBrown{

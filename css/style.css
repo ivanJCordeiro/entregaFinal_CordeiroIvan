@@ -33,7 +33,7 @@ body {
 }
 
 .navColor {
-  background-color: #A63C3C;
+  background-image: url(../images/bgImages/bgNavFooter.svg);
 }
 
 .botonBrown {
@@ -95,7 +95,7 @@ body {
 }
 
 .bgContacto {
-  background-color: #A63C3C;
+  background-image: url(../images/bgImages/bgNavFooter.svg);
 }
 
 .mainH {
@@ -109,7 +109,7 @@ body {
 
 /* estilo footer */
 .pie {
-  background-color: #A63C3C;
+  background-image: url(../images/bgImages/bgNavFooter.svg);
   display: flex;
 }
 
