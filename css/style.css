@@ -94,11 +94,6 @@ body {
   height: 300px;
 }
 
-.imgif {
-  width: 3%;
-  height: 3%;
-}
-
 /* estilo footer */
 .pie {
   background-image: url(../images/bgImages/bgNavFooter.svg);
