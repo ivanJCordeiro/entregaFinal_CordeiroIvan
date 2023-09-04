@@ -1,4 +1,3 @@
-IvanCordeiro_terceraPreentrega
 Página de Información de Entrenamiento y Nutrición
 Bienvenido a nuestra página web dedicada a brindarte información sobre entrenamiento, ejercicios, rutinas y alimentación saludable. Aquí encontrarás recursos y consejos para ayudarte a alcanzar tus objetivos de fitness y bienestar.
 
