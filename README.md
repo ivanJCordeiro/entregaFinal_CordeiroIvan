@@ -15,9 +15,9 @@ Nuestra página incluye una amplia variedad de ejercicios ilustrados con instruc
 La nutrición es fundamental para tu éxito en el fitness. En nuestra sección de alimentación, encontrarás información sobre dietas saludables, recetas equilibradas y consejos para planificar tus comidas. También ofrecemos calculadoras de calorías y seguimiento de macros para ayudarte a mantener un control sobre tu ingesta.
 
 links:
-repositorio de github: https://github.com/ivanJCordeiro/entregaFinal_CordeiroIvan
-github pages: https://ivanjcordeiro.github.io/entregaFinal_CordeiroIvan/
-host infinityFree: rutinow.infinityfreeapp.com
-figma wireframe: https://www.figma.com/file/wvj1UTWWEQzDRfVD69trWm/proyecto?type=design&mode=design&t=qikVN2t8RAogYkSi-0
+-repositorio de github: https://github.com/ivanJCordeiro/entregaFinal_CordeiroIvan
+-github pages: https://ivanjcordeiro.github.io/entregaFinal_CordeiroIvan/
+-host infinityFree: rutinow.infinityfreeapp.com
+-figma wireframe: https://www.figma.com/file/wvj1UTWWEQzDRfVD69trWm/proyecto?type=design&mode=design&t=qikVN2t8RAogYkSi-0
 
 proyecto basado en bootstrap, tambien se utilizó aos animate library y svg backgrounds.
